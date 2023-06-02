@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Unit Converter App</string>
+    <string name="source_unit">Source Unit</string>
+    <string name="destination_unit">Destination Unit</string>
+    <string name="convert">Convert</string>
+    <string name="result">Result</string>
+
+    <string-array name="source_unit">
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Mile</item>
+        <item>CM</item>
+        <item>KM</item>
+
+        <item>Pound</item>
+        <item>KG</item>
+        <item>Ounce</item>
+        <item>Ton</item>
+
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
